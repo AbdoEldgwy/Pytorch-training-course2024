@@ -1,1 +1,1 @@
-"# Pytorch-training-course2024" 
+# Pytorch-training-course 2024 
